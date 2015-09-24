@@ -8,7 +8,7 @@
 puts "Введите порядковый номер дня недели:"
 a = gets.chomp
 #exit if a.nil? or a.empty?
-#abort "Введено неправильное значение A: #{a}" if a == /D+/
+# abort "Введено неправильное значение A: #{a}" if a == /D+/
 a = a.to_i
 case a
 when 1

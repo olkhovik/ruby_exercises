@@ -16,3 +16,4 @@ end
 end
 
 puts "Sum of the even numbers from 1 to #{a}: #{sum}, Arithmetic average input numbers, M = #{m = sum / ev}"
+

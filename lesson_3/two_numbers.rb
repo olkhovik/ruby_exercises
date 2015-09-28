@@ -23,3 +23,4 @@ end
 
 puts "Sum of the numbers from 1 to #{a},dividing evenly on B: #{sum},
 Arithmetic average this numbers, M = #{m = sum.to_i / c}"
+
